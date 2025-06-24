@@ -14,7 +14,7 @@ const motos: Moto[] = [
   { id: 2, marca: "Bajaj", modelo: "Pulsar 150", precio: 3990.0, imagen: "https://p150.pulsar.pe/storage/app/uploads/public/63b/837/18a/63b83718a686f917746045.png" },
   { id: 3, marca: "Yamaha", modelo: "FZ-S", precio: 4260.0, imagen: "https://somosmoto.pe/images/models/gallery/yamaha-fzs-fi-2022-gallery-709cb1.jpg" },
   { id: 4, marca: "Suzuki", modelo: "Gixxer 150", precio: 4550.0, imagen: "https://www.domeinvehiculos.com/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-07-at-12.14.19-PM-1.jpeg" },
-  { id: 5, marca: "TVS", modelo: "Apache RTR 160", precio: 4100.0, imagen: "https://www.motocorp.pe/wp-content/uploads/2024/08/APACHE-1604V-ROJO-DE-COSTADO-800X800-e1724024386793.png" },
+  { id: 5, marca: "TVS", modelo: "Apache RTR 160", precio: 4100.0, imagen: "https://tvsperu.com/wp-content/uploads/2024/02/RED-1604V-Flat-AZUL-1024x709.png" },
   { id: 6, marca: "KTM", modelo: "Duke 200", precio: 5200.0, imagen: "https://socopur.com.pe/wp-content/uploads/2024/09/aa4eaffb-4de0-4e81-a3d9-c5dc8e637367.png" },
   { id: 7, marca: "Italika", modelo: "FT150", precio: 3500.0, imagen: "https://www.mundomotoperu.com/wp-content/uploads/italika-ft150-chakarera-negro.png" },
   { id: 8, marca: "Lifan", modelo: "LF150-10B", precio: 3620.0, imagen: "https://lh4.googleusercontent.com/proxy/dvh8B87qRdFiPFBWSY1gh6WN5cglU8p82YvHehg9webnKDeV2X081kId-mIV3vZLjm7KwEGlNIrkfZn1pGXdEbgDfB7uZRB-ARCg-0p0gZ6byYyk9EU0MOtFdC8FHl2Fko6e-IN-lg" },

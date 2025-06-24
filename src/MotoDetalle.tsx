@@ -84,7 +84,7 @@ export default function MotoDetalle() {
       modelo: "Apache RTR 160",
       anio: 2022,
       precio: 4100.0,
-      imagen: "https://www.motocorp.pe/wp-content/uploads/2024/08/APACHE-1604V-ROJO-DE-COSTADO-800X800-e1724024386793.png",
+      imagen: "https://tvsperu.com/wp-content/uploads/2024/02/RED-1604V-Flat-AZUL-1024x709.png",
       estado: "A",
       financiable: true,
       kilometraje: "10,200 km",
